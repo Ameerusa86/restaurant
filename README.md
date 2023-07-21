@@ -5,9 +5,10 @@
 ## Used Technologies
 
 1. Next JS 13.4
-2. Next-Auth
-3. MongoDB & Mongoose
-4. Redux & Redux Toolkit
+2. React JS
+3. Next-Auth
+4. MongoDB & Mongoose
+5. Redux & Redux Toolkit
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
