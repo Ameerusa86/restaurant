@@ -1,8 +1,13 @@
-# Resturant Application
+# FullStack Resturant Application
+
+![Alt text](image.png)
 
 ## Used Technologies
 
 1. Next JS 13.4
+2. Next-Auth
+3. MongoDB & Mongoose
+4. Redux & Redux Toolkit
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
